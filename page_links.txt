@@ -1,0 +1,38 @@
+<!doctype html><head><meta charset=utf-8 />
+<link rel=stylesheet type=text/css href=/codingbat.css>
+
+<title>CodingBat Java</title></head><body>
+<div style='float:right;  margin:0px; border: 1px solid lightgray;'><table><form  method=post action=/login><tr><td>id/email</td><td><input type=text name=uname size=20></td></tr><tr><td>password</td><td><input type=password name=pw size=20></td></tr><tr><td></td><td><input type=submit name=dologin value='log in'></td></tr> <input type=hidden name=fromurl value='/java'></form><tr><td colspan=2><a href=/reset>forgot password</a> | <a href='/pref?docreate=1'>create account</a></td></tr></div></td></tr></table></div><div  style='float:right'><table><tr><td valign=top style='text-align:right' colspan=1><a href=/about.html>about</a> | <a href=/help.html>help</a> | <a href=/doc/code-help-videos.html>code help+videos | <a href=/done>done</a> | <a href='/pref'>prefs</a> </td></tr></table></div><a href=/><span style='font-size:200%;'>CodingBat</span></a> code practice<div class=pretab><p class=max>Welcome to Codingbat. See <a href=/help.html>help</a> for the latest.</div><div class=tabc><nav><ul><li class=h2 id=selected><a href=/java>Java</a></li><li class=h2><a href=/python>Python</a></li></ul></nav><div class=tabin><div class=floatleft><table>
+<tr><td><div class=summ><a href='/java/Warmup-1'><span class=h2>Warmup-1</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>Simple warmup problems to get started (solutions available)<br><img src=/c1.jpg></div>
+</td><td><div class=summ><a href='/java/Warmup-2'><span class=h2>Warmup-2</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>Medium warmup string/array loops  (solutions available)<br><img src=/c1.jpg></div>
+</td></tr>
+<tr><td><div class=summ><a href='/java/String-1'><span class=h2>String-1</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>Basic string problems -- no loops<br><img src=/c1.jpg></div>
+</td><td><div class=summ><a href='/java/Array-1'><span class=h2>Array-1</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>Basic array problems -- no loops.<br><img src=/c1.jpg></div>
+</td></tr>
+<tr><td><div class=summ><a href='/java/Logic-1'><span class=h2>Logic-1</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>Basic boolean logic puzzles -- if else && || !<br><img src=/c1.jpg></div>
+</td><td><div class=summ><a href='/java/Logic-2'><span class=h2>Logic-2</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>Medium boolean logic puzzles -- if else && || !<br><img src=/c1.jpg></div>
+</td></tr>
+<tr><td><div class=summ><a href='/java/String-2'><span class=h2>String-2</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>Medium String problems -- 1 loop<br><img src=/c1.jpg></div>
+</td><td><div class=summ><a href='/java/String-3'><span class=h2>String-3</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>  Harder String problems -- 2 loops<br><img src=/c1.jpg></div>
+</td></tr>
+<tr><td><div class=summ><a href='/java/Array-2'><span class=h2>Array-2</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>  Medium array problems -- 1 loop<br><img src=/c1.jpg></div>
+</td><td><div class=summ><a href='/java/Array-3'><span class=h2>Array-3</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>  Harder array problems -- 2 loops, more complex logic<br><img src=/c1.jpg></div>
+</td></tr>
+<tr><td><div class=summ><a href='/java/AP-1'><span class=h2>AP-1</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>  AP CS medium problems<br><img src=/c1.jpg></div>
+</td><td><div class=summ><a href='/java/Recursion-1'><span class=h2>Recursion-1</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>Basic recursion problems<br><img src=/c1.jpg></div>
+</td></tr>
+<tr><td><div class=summ><a href='/java/Recursion-2'><span class=h2>Recursion-2</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>Harder recursion problems<br><img src=/c1.jpg></div>
+</td><td></td></tr>
+</table>
+</div><div class=floatleft><h3>New...</h3><table>
+<tr><td><div class=summ><a href='/java/Map-1'><span class=h2>Map-1</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>  Basic Map get()/put(), no loops<br><img src=/c1.jpg></div>
+</td></tr>
+<tr><td><div class=summ><a href='/java/Map-2'><span class=h2>Map-2</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>  Maps with bulk data and loops<br><img src=/c1.jpg></div>
+</td></tr>
+<tr><td><div class=summ><a href='/java/Functional-1'><span class=h2>Functional-1</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>  Functional mapping operations on lists with lambdas<br><img src=/c1.jpg></div>
+</td></tr>
+<tr><td><div class=summ><a href='/java/Functional-2'><span class=h2>Functional-2</span></a> <img src=/s1.jpg><img src=/s1.jpg><img src=/s1.jpg><br>  Functional filtering and mapping operations on lists with lambdas<br><img src=/c1.jpg></div>
+</td></tr>
+</table>
+ </div><div class=floatclear></div><h3>Java Help</h3><p style='max-width:800px'><ul><li><a href=/doc/java-example-solution-code.html>Java Example Solution Code</a><li><a href=/doc/java-string-introduction.html>Java String Introduction</a> (video) <li><a href=/doc/java-string-substring.html>Java Substring v2</a> (video)<li><a href=/doc/java-string-equals-loops.html>Java String Equals and Loops</a><li><a href=/doc/java-string-indexof-parsing.html>Java String indexOf and Parsing</a><li><a href=/doc/java-if-boolean-logic.html>Java If and Boolean Logic</a><li>&nbsp; <a href=/doc/java-if-boolean-example-solution-code-1.html>If Boolean Logic Example Solution Code 1</a> (video)<li>&nbsp; <a href=/doc/java-if-boolean-example-solution-code-2.html>If Boolean Logic Example Solution Code 2</a> (video)<li><a href=/doc/java-for-while-loops.html>Java For and While Loops</a><li><a href=/doc/java-array-loops.html>Java Arrays and Loops</a><li><a href=/doc/java-map-introduction.html>Java Map Introduction</a><li><a href=/doc/java-map-wordcount.html>Java Map WordCount</a><li><a href=/doc/java-functional-mapping.html>Java Functional Mapping</a><li><a href=/doc/java-functional-filtering.html>Java Functional Filtering</a></ul><p style='max-width:800px'><h3>Misc Code Practice</h3><ul><li><a href=/doc/practice/code-badges.html>Code Badges</a><li><a href=/doc/practice/mod-introduction.html>Introduction to Mod</a> (video)<li><a href=/doc/practice/makebricks-introduction.html>MakeBricks problem and solution</a> (video x 2)<li><a href=/doc/practice/fizzbuzz-code.html>FizzBuzz the famous</a> code interview question (video)</ul></div></div><p style='font-size:x-small;'>Copyright <a style='font-size:x-small;' href='http://www-cs-faculty.stanford.edu/~nick'>Nick Parlante</a> 2017 - <a style='font-size:x-small;' href=/privacy.html>privacy</a></body>
+</html>
